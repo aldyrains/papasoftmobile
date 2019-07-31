@@ -1,0 +1,4 @@
+#Wed Jul 31 14:12:44 ICT 2019
+base.0=D\:\\Android\\aplikasi\\Dtskominforun\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
